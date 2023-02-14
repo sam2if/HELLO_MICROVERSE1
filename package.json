@@ -1,0 +1,23 @@
+{
+  "name": "hello_microverse1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sam2if/HELLO_MICROVERSE1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sam2if/HELLO_MICROVERSE1/issues"
+  },
+  "homepage": "https://github.com/sam2if/HELLO_MICROVERSE1#readme",
+  "devDependencies": {
+    "hint": "^7.1.3"
+  }
+}
