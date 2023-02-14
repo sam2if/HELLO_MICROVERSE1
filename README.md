@@ -8,6 +8,13 @@
 - Webhint
 - Styleint
 
+## Key Features
+Describe between 1-3 key features of the application.
+
+1) modifying the color of the header.
+2) adding some emojis to the html file.
+3) using eslint
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
